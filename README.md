@@ -219,13 +219,3 @@
     </script>
 </body>
 </html>
-<td>جهاز تسجيل 4 قنوات HD</td>
-                    <td>جاري التحديث...</td>
-                </tr>
-            </tbody>
-        </table>
-        <br>
-        <p style="color: #666; font-size: 14px;">(ملاحظة: يمكنك تعديل هذه الأسعار وتحديثها في أي وقت لاحقاً)</p>
-    </div>
-</body>
-</html>
